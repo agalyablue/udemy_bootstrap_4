@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33c70920-fbcd-4169-b395-c55d832fb299" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/section3/10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/section3/10.html" beforeDir="false" afterPath="$PROJECT_DIR$/section3/10.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,15 +17,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/section3/10.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="65" column="33" lean-forward="true" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
+            <state relative-caret-position="208">
+              <caret line="47" column="25" lean-forward="true" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
               <folding>
                 <element signature="e#1430#1435#0" expanded="true" />
                 <element signature="e#1579#1584#0" expanded="true" />
                 <element signature="e#3121#3127#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/11.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="388">
+              <caret line="69" column="27" lean-forward="true" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
+              <folding>
+                <element signature="e#1898#1903#0" expanded="true" />
+                <element signature="e#2063#2068#0" expanded="true" />
+                <element signature="e#3612#3618#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -38,16 +54,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/section3/10.html" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/udemy_bootstrap_4.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/11.html" />
       </list>
     </option>
   </component>
@@ -72,6 +79,11 @@
               <item name="udemy_bootstrap_4" type="b2602c69:ProjectViewProjectNode" />
               <item name="udemy_bootstrap_4" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="udemy_bootstrap_4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udemy_bootstrap_4" type="462c0819:PsiDirectoryNode" />
+              <item name="section3" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -81,6 +93,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -125,19 +138,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559245071707</updated>
-      <workItem from="1559245078454" duration="5618000" />
+      <workItem from="1559245078454" duration="7111000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5618000" />
+    <option name="totallyTimeSpent" value="7111000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1010" y="23" width="845" height="977" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.03640777" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14320388" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
@@ -161,12 +174,24 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/section3/10.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="65" column="33" lean-forward="true" selection-start-line="65" selection-start-column="33" selection-end-line="65" selection-end-column="33" />
+        <state relative-caret-position="208">
+          <caret line="47" column="25" lean-forward="true" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
           <folding>
             <element signature="e#1430#1435#0" expanded="true" />
             <element signature="e#1579#1584#0" expanded="true" />
             <element signature="e#3121#3127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="69" column="27" lean-forward="true" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
+          <folding>
+            <element signature="e#1898#1903#0" expanded="true" />
+            <element signature="e#2063#2068#0" expanded="true" />
+            <element signature="e#3612#3618#0" expanded="true" />
           </folding>
         </state>
       </provider>
